@@ -119,6 +119,7 @@ class KNNClassificationFast:
         # Return the most common class label
         return majority_vote(k_nearest_labels)
 
+
 class KNNRegressionFast:
     """
     This is a faster implementation of the KNN regression algorithm using KDTree.
