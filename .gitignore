@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pdf
+*.html
+*.css
+*.js
+*.json
+*.yaml
+*.yml
+*.csv
+*.txt
+*.log
+*.env
