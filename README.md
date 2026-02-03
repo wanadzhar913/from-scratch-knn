@@ -1,4 +1,4 @@
-### Objectives
+# 1.0 Objectives
 We implement the [K-Nearest Neighbour](https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbours/) algorithm from scratch. We detail the algorithm below.
 
 Given a data point:
@@ -21,7 +21,7 @@ uv sync
 python3 train.py
 ```
 
-### Formulas & Data Structures
+# 2.0 Formulas & Data Structures
 
 [Euclidean distance](https://www.datacamp.com/tutorial/euclidean-distance) is given by the below:
 
@@ -44,6 +44,6 @@ Counter(labels).most_common(1)
 >>> [('green', 3)]
 ```
 
-### Resources
+# 3.0 Resources
 - KDTree implementation in Python: https://medium.com/@isurangawarnasooriya/exploring-kd-trees-a-comprehensive-guide-to-implementation-and-applications-in-python-3385fd56a246
 - KNN-implementation step-by-step: https://youtu.be/rTEtEy5o3X0?si=KamJLclr2qKkLaaA
